@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hello World
+title: Haimiao Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
